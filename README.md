@@ -21,5 +21,6 @@ As a programmer, I feel
 much more comfortable when coding and my pace has improved dramatically.  I often myself dreaming about these smooth and complicated riddles that sooth my Anxiety.
 
 
-#### 4 kyu working my way to dan
+#### 4 kyu working my way to dan   
+JS learning TS & SOlidity 
 
