@@ -1,6 +1,6 @@
 # Codewars
 
-Codewars is where thugs learn to about data structures & algorthms!  
+Codewars is the place to practice data structures & algorthms!  
 
 ## Overview
 
