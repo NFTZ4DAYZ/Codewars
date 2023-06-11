@@ -1,6 +1,6 @@
 # Codewars
 
-Codewars is the place to practice data structures & algorthms!  
+Codewars is the place to practice data structures & algorithms!  
 
 ## Overview
 
